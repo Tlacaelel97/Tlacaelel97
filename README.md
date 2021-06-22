@@ -108,14 +108,6 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/Tlacaelel97?tab=repositories">
-  <img align="center" 
-       src="https://camo.githubusercontent.com/e07b077255de78205b4521d070387cf2b12df2f34dfcd146e3d33c190f9f305b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d676f7468616d" 
-       alt='Tlacaelel's favorite languages" />
-</a>
-  
-<a href="https://github.com/Tlacaelel97">
-  <img align="center"
-       src="https://camo.githubusercontent.com/cf6b1611c3b67ce94d8663a4b6ae14dc135b04a1233cb2bf01200d50aa0ad7b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d676f7468616d" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tlacaelel97&hide=contribs,prs&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)    
+
 
